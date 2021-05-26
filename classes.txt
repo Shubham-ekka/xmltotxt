@@ -1,4 +1,4 @@
-With Helmet
-Without Helmet
-Person
+with helmet
+without helmet
+person
 Motorcycle
