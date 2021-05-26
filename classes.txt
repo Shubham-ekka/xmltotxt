@@ -1,2 +1,4 @@
 With Helmet
 Without Helmet
+Person
+Motorcycle
